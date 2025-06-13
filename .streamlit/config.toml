@@ -1,7 +1,13 @@
+[server]
+enableStaticServing = true
+
 [theme]
-primaryColor="#4bbcba"
-backgroundColor="#fafafa"
-secondaryBackgroundColor="#ffffff"
-textColor="#1e1e1e"
-font = "sans serif"
-secondaryFont = "Times New Roman"
+primaryColor = "#4bbcba"
+backgroundColor = "#fafafa"
+secondaryBackgroundColor = "#ffffff"
+textColor = "#1e1e1e"
+font = "Sans-serif"
+
+[[theme.fontFaces]]
+family = "Baloo2"
+url = "static/Baloo2-Regular.ttf"

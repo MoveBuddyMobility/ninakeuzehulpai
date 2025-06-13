@@ -5,6 +5,25 @@ from openai import OpenAI
 # --- PAGE CONFIG ---
 st.set_page_config(page_title="Nina | AI Keuzehulp", page_icon="🚗")
 
+st.markdown("""
+    <style>
+        h1 {
+            font-family: 'Baloo 2' !important;
+        }
+        body {
+            font-family: 'Ubuntu' !important;
+        }          
+        a {
+            color: #9b9bdf !important;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        
+    </style>
+""", unsafe_allow_html=True)
+
 # --- SECRETS & AVATARS ---
 openai_api_key = st.secrets["openai_apikey"]
 assistant_id = st.secrets["assistant_id"]
@@ -33,7 +52,8 @@ if "messages" not in st.session_state:
 
 # --- UI HEADER ---
 st.title("🚗 Nina | AI Keuzehulp")
-st.caption("🚀 Een AI-Keuzehulp gemaakt door MoveBuddy")
+st.markdown("🚀 Een AI-Keuzehulp gemaakt door [MoveBuddy](https://www.movebuddy.eu)", unsafe_allow_html=True)
+st.text("")
 
 # --- DISPLAY CHAT HISTORY ---
 for msg in st.session_state.messages:
@@ -77,6 +97,6 @@ if prompt := st.chat_input("Typ je bericht..."):
         st.session_state.messages.append({"role": "assistant", "content": assistant_reply})
         st.chat_message("assistant", avatar=assistant_icon_url).write(assistant_reply)
     else:
-        error_msg = "Er ging iets mis met het ophalen van Nina's antwoord."
+        error_msg = "Er ging iets mis met het ophalen van het antwoord."
         st.session_state.messages.append({"role": "assistant", "content": error_msg})
         st.chat_message("assistant", avatar=assistant_icon_url).write(error_msg)
