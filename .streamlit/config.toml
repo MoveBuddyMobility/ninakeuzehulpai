@@ -11,3 +11,8 @@ font = "Sans-serif"
 [[theme.fontFaces]]
 family = "Baloo2"
 url = "static/Baloo2-Regular.ttf"
+
+[server]
+enableCORS = false
+headless = true
+enableXsrfProtection = false
