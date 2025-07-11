@@ -2,3 +2,6 @@ streamlit==1.45.1
 openai==1.86.0
 pandas==2.2.2
 pydeck==0.9.1
+fpdf2==2.8.3
+pypdf==4.2.0
+numpy==1.26.4
