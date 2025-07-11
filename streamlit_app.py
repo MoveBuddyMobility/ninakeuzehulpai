@@ -51,8 +51,7 @@ st.markdown(
 api_key = st.secrets["openai_apikey"]
 model_id = "gpt-4o"  # Gebruik een mainstream model met tool‑ondersteuning
 vector_store_id = "vs_685110a8be848191bd00af63edc9a44e"
-car_data_path = "/Users/leroyeland/Documents/Projecten/Lopend/2025/AI Keuzehulp/20250611-Assistant/20250611-Autoprijzen_GPT.csv"
-
+car_data_path = "20250611-Autoprijzen_GPT.csv"
 assistant_icon = "https://movebuddy.eu/wp-content/uploads/2025/05/Nina-1.png"
 user_icon = "https://movebuddy.eu/wp-content/uploads/2025/02/Sarah-Empty.png"
 

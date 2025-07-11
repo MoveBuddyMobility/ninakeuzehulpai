@@ -149,15 +149,15 @@ Alpine,A290,BEV 52kWh 160kW GTS auto,2024,43650,Elektrisch,Automaat,0,5,48,40000
 Alpine,A290,BEV 52kWh 160kW GTS auto,2024,43650,Elektrisch,Automaat,0,5,60,20000,712
 Alpine,A290,BEV 52kWh 160kW GTS auto,2024,43650,Elektrisch,Automaat,0,5,60,30000,760
 Alpine,A290,BEV 52kWh 160kW GTS auto,2024,43650,Elektrisch,Automaat,0,5,60,40000,810
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,20000,873
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,30000,929
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,40000,984
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,20000,788
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,30000,840
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,40000,890
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,20000,732
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,30000,781
-Alpine,A290,BEV 52kWh 160kW Première Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,40000,832
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,20000,873
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,30000,929
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,36,40000,984
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,20000,788
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,30000,840
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,48,40000,890
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,20000,732
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,30000,781
+Alpine,A290,BEV 52kWh 160kW PremiÔøΩre Edition auto,2024,45150,Elektrisch,Automaat,0,5,60,40000,832
 Audi,A1 Sportback,35 TFSI S tronic S edition,2025,39640,Benzine,Automaat,128,5,36,20000,761
 Audi,A1 Sportback,35 TFSI S tronic S edition,2025,39640,Benzine,Automaat,128,5,36,30000,813
 Audi,A1 Sportback,35 TFSI S tronic S edition,2025,39640,Benzine,Automaat,128,5,36,40000,863
@@ -1389,138 +1389,138 @@ BMW,2 Serie Active Tourer,220dA,2025,52571,FALSE,Automaat,117,5,48,40000,1118
 BMW,2 Serie Active Tourer,220dA,2025,52571,FALSE,Automaat,117,5,60,20000,954
 BMW,2 Serie Active Tourer,220dA,2025,52571,FALSE,Automaat,117,5,60,30000,1002
 BMW,2 Serie Active Tourer,220dA,2025,52571,FALSE,Automaat,117,5,60,40000,1054
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,36,20000,1081
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,36,30000,1157
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,36,40000,1229
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,48,20000,998
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,48,30000,1068
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,48,40000,1136
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,60,20000,944
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,60,30000,1010
-BMW,2 Serie Coupé,220iA,2025,59091,Benzine,Automaat,146,4,60,40000,1080
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,36,20000,1312
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,36,30000,1388
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,36,40000,1462
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,48,20000,1200
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,48,30000,1271
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,48,40000,1340
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,60,20000,1128
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,60,30000,1195
-BMW,2 Serie Coupé,220dA,2025,64780,FALSE,Automaat,130,4,60,40000,1266
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,36,20000,1160
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,36,30000,1242
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,36,40000,1321
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,48,20000,1069
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,48,30000,1145
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,48,40000,1219
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,60,20000,1010
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,60,30000,1082
-BMW,2 Serie Coupé,230iA,2025,64262,Benzine,Automaat,151,4,60,40000,1158
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,20000,1654
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,30000,1760
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,40000,1862
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,48,20000,1508
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,48,30000,1605
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,20000,1411
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,30000,1500
-BMW,2 Serie Coupé,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,40000,1593
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,36,20000,1058
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,36,30000,1131
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,36,40000,1201
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,48,20000,977
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,48,30000,1045
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,48,40000,1110
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,60,20000,924
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,60,30000,987
-BMW,2 Serie Coupé,218iA,2025,57239,Benzine,Automaat,148,4,60,40000,1055
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,36,20000,2298
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,36,20000,2195
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,36,30000,2436
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,36,30000,2339
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,36,40000,2569
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,36,40000,2477
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,48,20000,2061
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,48,20000,1992
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,48,30000,2188
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,48,30000,2123
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,60,20000,1906
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,60,20000,1855
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,60,30000,2023
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,60,30000,1976
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,227,4,60,40000,2143
-BMW,2 Serie Coupé,M2,2025,126586,Benzine,Automaat,220,4,60,40000,2099
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,20000,1471
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,30000,1560
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,40000,1646
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,20000,1328
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,30000,1410
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,40000,1490
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,20000,1236
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,30000,1312
-BMW,2 Serie Gran Coupé,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,40000,1393
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,36,20000,1098
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,36,30000,1157
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,36,40000,1214
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,48,20000,1001
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,48,30000,1056
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,48,40000,1109
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,60,20000,940
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,60,30000,992
-BMW,2 Serie Gran Coupé,220d,2025,50683,FALSE,Automaat,110,5,60,40000,1047
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,36,20000,1118
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,36,30000,1178
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,36,40000,1235
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,48,20000,1018
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,48,30000,1074
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,48,40000,1128
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,60,20000,955
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,60,30000,1007
-BMW,2 Serie Gran Coupé,218d,2025,51092,FALSE,Automaat,120,5,60,40000,1064
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,36,20000,871
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,36,30000,929
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,36,40000,985
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,48,20000,802
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,48,30000,856
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,48,40000,909
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,60,20000,758
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,60,30000,810
-BMW,2 Serie Gran Coupé,220,2025,44216,Benzine,Automaat,119,5,60,40000,866
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,20000,1148
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,30000,1210
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,40000,1271
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,20000,1044
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,30000,1103
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,40000,1160
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,20000,979
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,30000,1034
-BMW,2 Serie Gran Coupé,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,40000,1093
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,20000,897
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,30000,958
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,40000,1017
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,20000,825
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,30000,882
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,40000,938
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,20000,780
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,30000,834
-BMW,2 Serie Gran Coupé,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,40000,893
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,20000,1128
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,30000,1190
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,40000,1250
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,20000,1028
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,30000,1085
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,40000,1142
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,20000,964
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,30000,1019
-BMW,2 Serie Gran Coupé,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,40000,1077
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,36,20000,877
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,36,30000,933
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,36,40000,987
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,48,20000,805
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,48,30000,857
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,48,40000,908
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,60,20000,759
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,60,30000,809
-BMW,2 Serie Gran Coupé,216,2025,44218,Benzine,Automaat,133,5,60,40000,862
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,36,20000,1081
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,36,30000,1157
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,36,40000,1229
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,48,20000,998
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,48,30000,1068
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,48,40000,1136
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,60,20000,944
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,60,30000,1010
+BMW,2 Serie CoupÔøΩ,220iA,2025,59091,Benzine,Automaat,146,4,60,40000,1080
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,36,20000,1312
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,36,30000,1388
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,36,40000,1462
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,48,20000,1200
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,48,30000,1271
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,48,40000,1340
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,60,20000,1128
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,60,30000,1195
+BMW,2 Serie CoupÔøΩ,220dA,2025,64780,FALSE,Automaat,130,4,60,40000,1266
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,36,20000,1160
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,36,30000,1242
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,36,40000,1321
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,48,20000,1069
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,48,30000,1145
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,48,40000,1219
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,60,20000,1010
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,60,30000,1082
+BMW,2 Serie CoupÔøΩ,230iA,2025,64262,Benzine,Automaat,151,4,60,40000,1158
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,20000,1654
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,30000,1760
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,36,40000,1862
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,48,20000,1508
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,48,30000,1605
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,20000,1411
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,30000,1500
+BMW,2 Serie CoupÔøΩ,M240iA xDrive,2025,92639,Benzine,Automaat,185,4,60,40000,1593
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,36,20000,1058
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,36,30000,1131
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,36,40000,1201
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,48,20000,977
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,48,30000,1045
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,48,40000,1110
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,60,20000,924
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,60,30000,987
+BMW,2 Serie CoupÔøΩ,218iA,2025,57239,Benzine,Automaat,148,4,60,40000,1055
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,36,20000,2298
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,36,20000,2195
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,36,30000,2436
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,36,30000,2339
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,36,40000,2569
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,36,40000,2477
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,48,20000,2061
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,48,20000,1992
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,48,30000,2188
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,48,30000,2123
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,60,20000,1906
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,60,20000,1855
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,60,30000,2023
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,60,30000,1976
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,227,4,60,40000,2143
+BMW,2 Serie CoupÔøΩ,M2,2025,126586,Benzine,Automaat,220,4,60,40000,2099
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,20000,1471
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,30000,1560
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,36,40000,1646
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,20000,1328
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,30000,1410
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,48,40000,1490
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,20000,1236
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,30000,1312
+BMW,2 Serie Gran CoupÔøΩ,M235 xDrive,2025,79431,Benzine,Automaat,170,5,60,40000,1393
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,36,20000,1098
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,36,30000,1157
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,36,40000,1214
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,48,20000,1001
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,48,30000,1056
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,48,40000,1109
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,60,20000,940
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,60,30000,992
+BMW,2 Serie Gran CoupÔøΩ,220d,2025,50683,FALSE,Automaat,110,5,60,40000,1047
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,36,20000,1118
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,36,30000,1178
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,36,40000,1235
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,48,20000,1018
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,48,30000,1074
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,48,40000,1128
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,60,20000,955
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,60,30000,1007
+BMW,2 Serie Gran CoupÔøΩ,218d,2025,51092,FALSE,Automaat,120,5,60,40000,1064
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,36,20000,871
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,36,30000,929
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,36,40000,985
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,48,20000,802
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,48,30000,856
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,48,40000,909
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,60,20000,758
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,60,30000,810
+BMW,2 Serie Gran CoupÔøΩ,220,2025,44216,Benzine,Automaat,119,5,60,40000,866
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,20000,1148
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,30000,1210
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,36,40000,1271
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,20000,1044
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,30000,1103
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,48,40000,1160
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,20000,979
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,30000,1034
+BMW,2 Serie Gran CoupÔøΩ,218d M Sport Design Edition,2025,52928,FALSE,Automaat,122,5,60,40000,1093
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,20000,897
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,30000,958
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,36,40000,1017
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,20000,825
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,30000,882
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,48,40000,938
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,20000,780
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,30000,834
+BMW,2 Serie Gran CoupÔøΩ,220 M Sport Design Edition,2025,45659,Benzine,Automaat,120,5,60,40000,893
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,20000,1128
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,30000,1190
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,36,40000,1250
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,20000,1028
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,30000,1085
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,48,40000,1142
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,20000,964
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,30000,1019
+BMW,2 Serie Gran CoupÔøΩ,220d M Sport Design Edition,2025,52519,FALSE,Automaat,112,5,60,40000,1077
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,36,20000,877
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,36,30000,933
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,36,40000,987
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,48,20000,805
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,48,30000,857
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,48,40000,908
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,60,20000,759
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,60,30000,809
+BMW,2 Serie Gran CoupÔøΩ,216,2025,44218,Benzine,Automaat,133,5,60,40000,862
 BMW,3 Serie Sedan,330e xDrive,2025,58305,Hybride,Automaat,21,5,36,20000,1160
 BMW,3 Serie Sedan,330e xDrive,2025,58305,Hybride,Automaat,21,5,36,30000,1227
 BMW,3 Serie Sedan,330e xDrive,2025,58305,Hybride,Automaat,21,5,36,40000,1293
@@ -1743,85 +1743,85 @@ BMW,3 Serie Touring,M3 Competition xDrive,2025,159524,Benzine,Automaat,234,5,48,
 BMW,3 Serie Touring,M3 Competition xDrive,2025,159524,Benzine,Automaat,234,5,60,20000,2302
 BMW,3 Serie Touring,M3 Competition xDrive,2025,159524,Benzine,Automaat,234,5,60,30000,2430
 BMW,3 Serie Touring,M3 Competition xDrive,2025,159524,Benzine,Automaat,234,5,60,40000,2559
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,36,20000,1118
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,36,30000,1191
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,36,40000,1261
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,48,20000,1025
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,48,30000,1093
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,48,40000,1158
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,60,20000,965
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,60,30000,1029
-BMW,4 Serie Coupé,420iA,2024,60629,Benzine,Automaat,143,4,60,40000,1097
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,20000,1294
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,30000,1376
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,40000,1455
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,20000,1181
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,30000,1257
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,40000,1331
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,20000,1109
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,30000,1180
-BMW,4 Serie Coupé,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,40000,1257
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,36,20000,3418
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,36,30000,3619
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,36,40000,3811
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,48,20000,3065
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,48,30000,3246
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,60,20000,2829
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,60,30000,2991
-BMW,4 Serie Coupé,M4 CS,2025,214048,Benzine,Automaat,232,4,60,40000,3155
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,36,20000,1196
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,36,30000,1267
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,36,40000,1335
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,48,20000,1088
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,48,30000,1153
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,48,40000,1216
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,60,20000,1018
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,60,30000,1079
-BMW,4 Serie Gran Coupé,420iA,2024,63827,Benzine,Automaat,150,5,60,40000,1143
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,20000,1906
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,30000,2010
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,40000,2111
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,48,20000,1712
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,48,30000,1807
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,20000,1585
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,30000,1672
-BMW,4 Serie Gran Coupé,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,40000,1760
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,36,20000,1418
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,36,30000,1489
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,36,40000,1557
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,48,20000,1281
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,48,30000,1346
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,48,40000,1409
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,60,20000,1194
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,60,30000,1255
-BMW,4 Serie Gran Coupé,420dA,2024,67937,FALSE,Automaat,131,5,60,40000,1319
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,20000,1498
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,30000,1572
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,40000,1643
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,20000,1351
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,30000,1419
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,40000,1484
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,20000,1256
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,30000,1320
-BMW,4 Serie Gran Coupé,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,40000,1386
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,20000,1391
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,30000,1471
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,40000,1549
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,20000,1260
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,30000,1334
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,40000,1406
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,20000,1175
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,30000,1244
-BMW,4 Serie Gran Coupé,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,40000,1316
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,20000,1730
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,30000,1813
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,40000,1893
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,20000,1553
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,30000,1629
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,40000,1702
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,20000,1439
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,30000,1509
-BMW,4 Serie Gran Coupé,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,40000,1583
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,36,20000,1118
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,36,30000,1191
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,36,40000,1261
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,48,20000,1025
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,48,30000,1093
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,48,40000,1158
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,60,20000,965
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,60,30000,1029
+BMW,4 Serie CoupÔøΩ,420iA,2024,60629,Benzine,Automaat,143,4,60,40000,1097
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,20000,1294
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,30000,1376
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,36,40000,1455
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,20000,1181
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,30000,1257
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,48,40000,1331
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,20000,1109
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,30000,1180
+BMW,4 Serie CoupÔøΩ,430iA xDrive,2024,70776,Benzine,Automaat,157,4,60,40000,1257
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,36,20000,3418
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,36,30000,3619
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,36,40000,3811
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,48,20000,3065
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,48,30000,3246
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,60,20000,2829
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,60,30000,2991
+BMW,4 Serie CoupÔøΩ,M4 CS,2025,214048,Benzine,Automaat,232,4,60,40000,3155
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,36,20000,1196
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,36,30000,1267
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,36,40000,1335
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,48,20000,1088
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,48,30000,1153
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,48,40000,1216
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,60,20000,1018
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,60,30000,1079
+BMW,4 Serie Gran CoupÔøΩ,420iA,2024,63827,Benzine,Automaat,150,5,60,40000,1143
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,20000,1906
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,30000,2010
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,36,40000,2111
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,48,20000,1712
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,48,30000,1807
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,20000,1585
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,30000,1672
+BMW,4 Serie Gran CoupÔøΩ,M440iA xDrive,2024,105845,Benzine,Automaat,187,5,60,40000,1760
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,36,20000,1418
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,36,30000,1489
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,36,40000,1557
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,48,20000,1281
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,48,30000,1346
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,48,40000,1409
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,60,20000,1194
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,60,30000,1255
+BMW,4 Serie Gran CoupÔøΩ,420dA,2024,67937,FALSE,Automaat,131,5,60,40000,1319
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,20000,1498
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,30000,1572
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,36,40000,1643
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,20000,1351
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,30000,1419
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,48,40000,1484
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,20000,1256
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,30000,1320
+BMW,4 Serie Gran CoupÔøΩ,420dA xDrive,2024,72741,FALSE,Automaat,139,5,60,40000,1386
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,20000,1391
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,30000,1471
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,36,40000,1549
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,20000,1260
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,30000,1334
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,48,40000,1406
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,20000,1175
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,30000,1244
+BMW,4 Serie Gran CoupÔøΩ,430iA xDrive,2024,74826,Benzine,Automaat,162,5,60,40000,1316
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,20000,1730
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,30000,1813
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,36,40000,1893
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,20000,1553
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,30000,1629
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,48,40000,1702
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,20000,1439
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,30000,1509
+BMW,4 Serie Gran CoupÔøΩ,430dA xDrive,2024,85110,FALSE,Automaat,151,5,60,40000,1583
 BMW,5 Serie Sedan,520dA xDrive,2025,83534,FALSE,Automaat,145,5,36,20000,1644
 BMW,5 Serie Sedan,520dA xDrive,2025,83534,FALSE,Automaat,145,5,36,30000,1732
 BMW,5 Serie Sedan,520dA xDrive,2025,83534,FALSE,Automaat,145,5,36,40000,1816
@@ -2734,312 +2734,312 @@ BYD,TANG,Flagship,2024,67090,Elektrisch,Automaat,0,7,48,40000,1368
 BYD,TANG,Flagship,2024,67090,Elektrisch,Automaat,0,7,60,20000,1116
 BYD,TANG,Flagship,2024,67090,Elektrisch,Automaat,0,7,60,30000,1187
 BYD,TANG,Flagship,2024,67090,Elektrisch,Automaat,0,7,60,40000,1259
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,20000,550
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,30000,586
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,40000,622
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,20000,503
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,30000,539
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,40000,574
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,20000,476
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,30000,511
-Citroën,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,40000,550
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,20000,598
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,30000,638
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,40000,677
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,20000,545
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,30000,584
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,40000,623
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,20000,515
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,30000,553
-Citroën,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,40000,595
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,20000,582
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,30000,621
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,40000,660
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,20000,532
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,30000,571
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,40000,609
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,20000,503
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,30000,541
-Citroën,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,40000,583
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,20000,604
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,30000,644
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,40000,683
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,20000,550
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,30000,590
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,40000,628
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,20000,519
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,30000,557
-Citroën,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,40000,600
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,20000,593
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,30000,632
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,40000,671
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,20000,541
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,30000,580
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,40000,618
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,20000,511
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,30000,549
-Citroën,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,40000,591
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,20000,622
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,30000,661
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,40000,700
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,20000,567
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,30000,606
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,40000,645
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,20000,536
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,30000,574
-Citroën,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,40000,616
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,20000,732
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,30000,781
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,40000,828
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,20000,668
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,30000,715
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,40000,760
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,20000,630
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,30000,675
-Citroën,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,40000,725
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,20000,656
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,30000,699
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,40000,742
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,20000,598
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,30000,641
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,40000,683
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,20000,565
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,30000,607
-Citroën,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,40000,653
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,20000,699
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,30000,746
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,40000,792
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,20000,639
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,30000,685
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,40000,729
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,20000,604
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,30000,648
-Citroën,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,40000,697
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,20000,766
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,30000,819
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,40000,871
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,20000,702
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,30000,754
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,40000,804
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,20000,665
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,30000,715
-Citroën,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,40000,770
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,20000,730
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,30000,782
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,40000,833
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,20000,671
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,30000,722
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,40000,771
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,20000,637
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,30000,686
-Citroën,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,40000,740
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,20000,692
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,30000,738
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,40000,783
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,20000,635
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,30000,680
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,40000,724
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,20000,603
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,30000,646
-Citroën,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,40000,694
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,20000,730
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,30000,782
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,40000,833
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,20000,671
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,30000,722
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,40000,771
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,20000,637
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,30000,686
-Citroën,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,40000,740
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,20000,706
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,30000,761
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,40000,815
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,20000,659
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,30000,713
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,40000,764
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,20000,632
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,30000,683
-Citroën,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,40000,740
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,20000,738
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,30000,795
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,40000,850
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,20000,688
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,30000,742
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,40000,795
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,20000,658
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,30000,710
-Citroën,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,40000,768
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,20000,706
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,30000,761
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,40000,815
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,20000,659
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,30000,713
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,40000,764
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,20000,632
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,30000,683
-Citroën,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,40000,740
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,20000,688
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,30000,740
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,40000,790
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,20000,642
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,30000,692
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,40000,740
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,20000,615
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,30000,663
-Citroën,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,40000,717
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,20000,879
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,30000,937
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,40000,992
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,20000,803
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,30000,858
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,40000,912
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,20000,757
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,30000,810
-Citroën,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,40000,869
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,20000,859
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,30000,916
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,40000,971
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,20000,785
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,30000,840
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,40000,893
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,20000,741
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,30000,794
-Citroën,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,40000,852
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,20000,914
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,30000,976
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,40000,1036
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,20000,847
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,30000,906
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,40000,962
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,20000,805
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,30000,860
-Citroën,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,40000,919
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,20000,518
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,30000,552
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,40000,586
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,20000,471
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,30000,504
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,40000,537
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,20000,443
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,30000,475
-Citroën,ë-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,40000,511
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,20000,577
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,30000,616
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,40000,653
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,20000,524
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,30000,562
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,40000,598
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,20000,492
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,30000,528
-Citroën,ë-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,40000,568
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,20000,541
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,30000,579
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,40000,615
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,20000,493
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,30000,529
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,40000,565
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,20000,465
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,30000,499
-Citroën,ë-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,40000,538
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,20000,564
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,30000,599
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,40000,633
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,20000,510
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,30000,544
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,40000,577
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,20000,478
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,30000,510
-Citroën,ë-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,40000,545
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,20000,631
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,30000,670
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,40000,709
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,20000,569
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,30000,607
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,40000,644
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,20000,531
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,30000,567
-Citroën,ë-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,40000,606
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,20000,599
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,30000,637
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,40000,674
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,20000,541
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,30000,578
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,40000,614
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,20000,506
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,30000,541
-Citroën,ë-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,40000,579
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,20000,786
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,30000,830
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,40000,873
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,20000,698
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,30000,740
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,40000,781
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,20000,644
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,30000,684
-Citroën,ë-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,40000,727
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,20000,753
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,30000,797
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,40000,839
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,20000,671
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,30000,712
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,40000,752
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,20000,620
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,30000,659
-Citroën,ë-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,40000,701
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,20000,710
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,30000,749
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,40000,787
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,20000,633
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,30000,670
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,40000,706
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,20000,585
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,30000,620
-Citroën,ë-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,40000,659
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,20000,709
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,30000,751
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,40000,792
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,20000,633
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,30000,673
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,40000,712
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,20000,586
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,30000,625
-Citroën,ë-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,40000,666
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,20000,704
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,30000,745
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,40000,784
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,20000,633
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,30000,671
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,40000,709
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,20000,588
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,30000,625
-Citroën,ë-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,40000,664
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,20000,746
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,30000,791
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,40000,835
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,20000,670
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,30000,713
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,40000,754
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,20000,622
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,30000,663
-Citroën,ë-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,40000,706
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,20000,777
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,30000,823
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,40000,868
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,20000,697
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,30000,740
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,40000,783
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,20000,647
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,30000,688
-Citroën,ë-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,40000,732
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,20000,703
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,30000,747
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,40000,789
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,20000,633
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,30000,675
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,40000,715
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,20000,590
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,30000,629
-Citroën,ë-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,40000,672
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,20000,550
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,30000,586
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,36,40000,622
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,20000,503
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,30000,539
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,48,40000,574
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,20000,476
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,30000,511
+CitroÔøΩn,C3,Turbo 100pk YOU,2024,21840,Benzine,Handgeschakeld,126,5,60,40000,550
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,20000,598
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,30000,638
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,36,40000,677
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,20000,545
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,30000,584
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,48,40000,623
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,20000,515
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,30000,553
+CitroÔøΩn,C3,Turbo 100pk MAX,2024,25550,Benzine,Handgeschakeld,128,5,60,40000,595
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,20000,582
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,30000,621
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,36,40000,660
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,20000,532
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,30000,571
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,48,40000,609
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,20000,503
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,30000,541
+CitroÔøΩn,C3,Turbo 100pk PLUS,2024,24350,Benzine,Handgeschakeld,127,5,60,40000,583
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,20000,604
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,30000,644
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,36,40000,683
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,20000,550
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,30000,590
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,48,40000,628
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,20000,519
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,30000,557
+CitroÔøΩn,C3,Hybrid 110pk Automaat MAX,2024,26500,Benzine,Automaat,114,5,60,40000,600
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,20000,593
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,30000,632
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,36,40000,671
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,20000,541
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,30000,580
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,48,40000,618
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,20000,511
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,30000,549
+CitroÔøΩn,C3,Hybrid 110pk Automaat PLUS,2024,25300,Benzine,Automaat,114,5,60,40000,591
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,20000,622
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,30000,661
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,36,40000,700
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,20000,567
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,30000,606
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,48,40000,645
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,20000,536
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,30000,574
+CitroÔøΩn,C3 Aircross,Turbo 100pk YOU,2024,25990,Benzine,Handgeschakeld,135,5,60,40000,616
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,20000,732
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,30000,781
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,36,40000,828
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,20000,668
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,30000,715
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,48,40000,760
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,20000,630
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,30000,675
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat MAX,2024,32830,Benzine,Automaat,120,5,60,40000,725
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,20000,656
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,30000,699
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,36,40000,742
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,20000,598
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,30000,641
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,48,40000,683
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,20000,565
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,30000,607
+CitroÔøΩn,C3 Aircross,Turbo 100pk PLUS,2024,27980,Benzine,Handgeschakeld,136,5,60,40000,653
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,20000,699
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,30000,746
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,36,40000,792
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,20000,639
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,30000,685
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,48,40000,729
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,20000,604
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,30000,648
+CitroÔøΩn,C3 Aircross,Hybrid 145pk Automaat PLUS,2024,30730,Benzine,Automaat,120,5,60,40000,697
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,20000,766
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,30000,819
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,36,40000,871
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,20000,702
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,30000,754
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,48,40000,804
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,20000,665
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,30000,715
+CitroÔøΩn,C4,Hybrid 145pk Automaat MAX,2024,36150,Benzine,Automaat,107,5,60,40000,770
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,20000,730
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,30000,782
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,36,40000,833
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,20000,671
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,30000,722
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,48,40000,771
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,20000,637
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,30000,686
+CitroÔøΩn,C4,Hybrid 145pk Automaat PLUS,2024,34150,Benzine,Automaat,106,5,60,40000,740
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,20000,692
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,30000,738
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,36,40000,783
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,20000,635
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,30000,680
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,48,40000,724
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,20000,603
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,30000,646
+CitroÔøΩn,C4,Hybrid 110pk Automaat YOU,2024,31850,Benzine,Automaat,108,5,60,40000,694
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,20000,730
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,30000,782
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,36,40000,833
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,20000,671
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,30000,722
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,48,40000,771
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,20000,637
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,30000,686
+CitroÔøΩn,C4,Hybrid 145pk Automaat BUSINESS,2024,34150,Benzine,Automaat,106,5,60,40000,740
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,20000,706
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,30000,761
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,36,40000,815
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,20000,659
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,30000,713
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,48,40000,764
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,20000,632
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,30000,683
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat PLUS,2024,34850,Benzine,Automaat,106,5,60,40000,740
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,20000,738
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,30000,795
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,36,40000,850
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,20000,688
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,30000,742
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,48,40000,795
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,20000,658
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,30000,710
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat MAX,2024,36850,Benzine,Automaat,106,5,60,40000,768
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,20000,706
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,30000,761
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,36,40000,815
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,20000,659
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,30000,713
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,48,40000,764
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,20000,632
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,30000,683
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat BUSINESS,2024,34850,Benzine,Automaat,106,5,60,40000,740
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,20000,688
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,30000,740
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,36,40000,790
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,20000,642
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,30000,692
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,48,40000,740
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,20000,615
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,30000,663
+CitroÔøΩn,C4 X,Hybrid 145pk Automaat YOU,2024,33720,Benzine,Automaat,106,5,60,40000,717
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,20000,879
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,30000,937
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,36,40000,992
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,20000,803
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,30000,858
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,48,40000,912
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,20000,757
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,30000,810
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat MAX,2024,40770,Benzine,Automaat,128,5,60,40000,869
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,20000,859
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,30000,916
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,36,40000,971
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,20000,785
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,30000,840
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,48,40000,893
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,20000,741
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,30000,794
+CitroÔøΩn,C5 Aircross,Hybrid 145pk Automaat PLUS,2024,39470,Benzine,Automaat,128,5,60,40000,852
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,20000,914
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,30000,976
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,36,40000,1036
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,20000,847
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,30000,906
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,48,40000,962
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,20000,805
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,30000,860
+CitroÔøΩn,C5 X,Hybrid 145pk Automaat PLUS,2025,48590,Benzine,Automaat,116,5,60,40000,919
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,20000,518
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,30000,552
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,36,40000,586
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,20000,471
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,30000,504
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,48,40000,537
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,20000,443
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,30000,475
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk YOU,2024,23300,Elektrisch,Automaat,0,5,60,40000,511
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,20000,577
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,30000,616
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,36,40000,653
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,20000,524
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,30000,562
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,48,40000,598
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,20000,492
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,30000,528
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk MAX,2024,27800,Elektrisch,Automaat,0,5,60,40000,568
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,20000,541
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,30000,579
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,36,40000,615
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,20000,493
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,30000,529
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,48,40000,565
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,20000,465
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,30000,499
+CitroÔøΩn,ÔøΩ-C3,Elektrisch 113pk PLUS,2024,25500,Elektrisch,Automaat,0,5,60,40000,538
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,20000,564
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,30000,599
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,36,40000,633
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,20000,510
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,30000,544
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,48,40000,577
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,20000,478
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,30000,510
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk YOU,2024,26400,Elektrisch,Automaat,0,5,60,40000,545
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,20000,631
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,30000,670
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,36,40000,709
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,20000,569
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,30000,607
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,48,40000,644
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,20000,531
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,30000,567
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk MAX,2024,30600,Elektrisch,Automaat,0,5,60,40000,606
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,20000,599
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,30000,637
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,36,40000,674
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,20000,541
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,30000,578
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,48,40000,614
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,20000,506
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,30000,541
+CitroÔøΩn,ÔøΩ-C3 Aircross,Elektrisch 113pk PLUS,2024,28500,Elektrisch,Automaat,0,5,60,40000,579
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,20000,786
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,30000,830
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,36,40000,873
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,20000,698
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,30000,740
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,48,40000,781
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,20000,644
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,30000,684
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range MAX,2024,38465,Elektrisch,Automaat,0,5,60,40000,727
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,20000,753
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,30000,797
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,36,40000,839
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,20000,671
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,30000,712
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,48,40000,752
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,20000,620
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,30000,659
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range PLUS,2024,36465,Elektrisch,Automaat,0,5,60,40000,701
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,20000,710
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,30000,749
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,36,40000,787
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,20000,633
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,30000,670
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,48,40000,706
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,20000,585
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,30000,620
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 136pk Standard range YOU,2024,34215,Elektrisch,Automaat,0,5,60,40000,659
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,20000,709
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,30000,751
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,36,40000,792
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,20000,633
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,30000,673
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,48,40000,712
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,20000,586
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,30000,625
+CitroÔøΩn,ÔøΩ-C4,Elektrisch 156pk Extended range BUSINESS,2024,33990,Elektrisch,Automaat,0,5,60,40000,666
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,20000,704
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,30000,745
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,36,40000,784
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,20000,633
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,30000,671
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,48,40000,709
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,20000,588
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,30000,625
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 136pk Standard range YOU,2024,34915,Elektrisch,Automaat,0,5,60,40000,664
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,20000,746
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,30000,791
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,36,40000,835
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,20000,670
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,30000,713
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,48,40000,754
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,20000,622
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,30000,663
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range PLUS,2024,37165,Elektrisch,Automaat,0,5,60,40000,706
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,20000,777
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,30000,823
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,36,40000,868
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,20000,697
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,30000,740
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,48,40000,783
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,20000,647
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,30000,688
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range MAX,2024,39165,Elektrisch,Automaat,0,5,60,40000,732
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,20000,703
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,30000,747
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,36,40000,789
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,20000,633
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,30000,675
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,48,40000,715
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,20000,590
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,30000,629
+CitroÔøΩn,ÔøΩ-C4 X,Elektrisch 156pk Extended range BUSINESS,2024,34690,Elektrisch,Automaat,0,5,60,40000,672
 CUPRA,Born,59kWh 170kW Performance auto,2025,38285,Elektrisch,Automaat,0,5,36,20000,801
 CUPRA,Born,59kWh 170kW Performance auto,2025,38285,Elektrisch,Automaat,0,5,36,30000,853
 CUPRA,Born,59kWh 170kW Performance auto,2025,38285,Elektrisch,Automaat,0,5,36,40000,904
@@ -3724,24 +3724,24 @@ DS,DS 3,E-TENSE 54kWh Pallas Auto,2024,39890,Elektrisch,Automaat,0,5,48,40000,79
 DS,DS 3,E-TENSE 54kWh Pallas Auto,2024,39890,Elektrisch,Automaat,0,5,60,20000,655
 DS,DS 3,E-TENSE 54kWh Pallas Auto,2024,39890,Elektrisch,Automaat,0,5,60,30000,694
 DS,DS 3,E-TENSE 54kWh Pallas Auto,2024,39890,Elektrisch,Automaat,0,5,60,40000,734
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,20000,870
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,30000,918
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,40000,964
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,20000,773
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,30000,818
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,40000,861
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,20000,712
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,30000,754
-DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÉRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,40000,798
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,36,20000,833
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,36,30000,893
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,36,40000,950
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,48,20000,770
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,48,30000,826
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,48,40000,881
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,60,20000,731
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,60,30000,785
-DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÉRY Auto,2024,42940,Benzine,Automaat,112,5,60,40000,843
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,20000,870
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,30000,918
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,36,40000,964
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,20000,773
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,30000,818
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,48,40000,861
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,20000,712
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,30000,754
+DS,DS 3,E-TENSE 54kWh ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,44390,Elektrisch,Automaat,0,5,60,40000,798
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,36,20000,833
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,36,30000,893
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,36,40000,950
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,48,20000,770
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,48,30000,826
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,48,40000,881
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,60,20000,731
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,60,30000,785
+DS,DS 3,HYBRID ANTOINE DE SAINT EXUPÔøΩRY Auto,2024,42940,Benzine,Automaat,112,5,60,40000,843
 DS,DS 3,E-TENSE 54kWh LIGNE BUSINESS Auto,2024,39040,Elektrisch,Automaat,0,5,36,20000,783
 DS,DS 3,E-TENSE 54kWh LIGNE BUSINESS Auto,2024,39040,Elektrisch,Automaat,0,5,36,30000,827
 DS,DS 3,E-TENSE 54kWh LIGNE BUSINESS Auto,2024,39040,Elektrisch,Automaat,0,5,36,40000,868
@@ -3778,15 +3778,15 @@ DS,DS 3,E-TENSE 54kWh Edition France Auto,2024,40590,Elektrisch,Automaat,0,5,48,
 DS,DS 3,E-TENSE 54kWh Edition France Auto,2024,40590,Elektrisch,Automaat,0,5,60,20000,664
 DS,DS 3,E-TENSE 54kWh Edition France Auto,2024,40590,Elektrisch,Automaat,0,5,60,30000,703
 DS,DS 3,E-TENSE 54kWh Edition France Auto,2024,40590,Elektrisch,Automaat,0,5,60,40000,743
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,20000,940
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,30000,999
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,40000,1056
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,20000,856
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,30000,912
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,40000,967
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,20000,805
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,30000,858
-DS,DS 4,1.2 HYBRID ÉTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,40000,917
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,20000,940
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,30000,999
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,36,40000,1056
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,20000,856
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,30000,912
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,48,40000,967
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,20000,805
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,30000,858
+DS,DS 4,1.2 HYBRID ÔøΩTOILE e-DCS6,2024,46790,Benzine,Automaat,116,5,60,40000,917
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,36,20000,867
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,36,30000,923
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,36,40000,978
@@ -3796,15 +3796,15 @@ DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,48,40000,899
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,60,20000,748
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,60,30000,799
 DS,DS 4,1.2 HYBRID PALLAS e-DCS6,2024,42190,Benzine,Automaat,117,5,60,40000,856
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,20000,981
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,30000,1042
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,40000,1101
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,20000,892
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,30000,950
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,40000,1006
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,20000,837
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,30000,892
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,40000,951
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,20000,981
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,30000,1042
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,36,40000,1101
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,20000,892
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,30000,950
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,48,40000,1006
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,20000,837
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,30000,892
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA e-DCS6,2024,49690,Benzine,Automaat,117,5,60,40000,951
 DS,DS 4,1.2 HYBRID PALLAS Comfort e-DCS6,2024,42760,Benzine,Automaat,117,5,36,20000,876
 DS,DS 4,1.2 HYBRID PALLAS Comfort e-DCS6,2024,42760,Benzine,Automaat,117,5,36,30000,932
 DS,DS 4,1.2 HYBRID PALLAS Comfort e-DCS6,2024,42760,Benzine,Automaat,117,5,36,40000,987
@@ -3832,69 +3832,69 @@ DS,DS 4,1.2 HYBRID PALLAS Comfort Tech e-DCS6,2024,43760,Benzine,Automaat,117,5,
 DS,DS 4,1.2 HYBRID PALLAS Comfort Tech e-DCS6,2024,43760,Benzine,Automaat,117,5,60,20000,767
 DS,DS 4,1.2 HYBRID PALLAS Comfort Tech e-DCS6,2024,43760,Benzine,Automaat,117,5,60,30000,819
 DS,DS 4,1.2 HYBRID PALLAS Comfort Tech e-DCS6,2024,43760,Benzine,Automaat,117,5,60,40000,876
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,20000,957
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,30000,1017
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,40000,1075
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,20000,872
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,30000,928
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,40000,983
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,20000,819
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,30000,873
-DS,DS 4,1.2 HYBRID ÉTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,40000,931
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,20000,959
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,30000,1019
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,40000,1076
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,20000,873
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,30000,930
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,40000,985
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,20000,820
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,30000,874
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,40000,933
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,20000,976
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,30000,1036
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,40000,1095
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,20000,888
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,30000,945
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,40000,1001
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,20000,833
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,30000,888
-DS,DS 4,1.2 HYBRID ÉTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,40000,947
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,20000,994
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,30000,1055
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,40000,1115
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,20000,904
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,30000,962
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,40000,1018
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,20000,848
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,30000,903
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,40000,963
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,20000,1017
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,30000,1079
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,40000,1139
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,20000,924
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,30000,982
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,40000,1039
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,20000,866
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,30000,921
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,40000,982
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,20000,1030
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,30000,1092
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,40000,1153
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,20000,935
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,30000,994
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,40000,1051
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,20000,876
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,30000,932
-DS,DS 4,1.2 HYBRID ÉTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,40000,992
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,36,20000,1082
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,36,30000,1145
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,36,40000,1206
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,48,20000,968
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,48,30000,1029
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,48,40000,1088
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,60,20000,900
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,60,30000,958
-DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY Aut,2024,53540,Hybride,Automaat,33,5,60,40000,1023
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,20000,957
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,30000,1017
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,36,40000,1075
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,20000,872
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,30000,928
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,48,40000,983
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,20000,819
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,30000,873
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Tech e-DCS6,2024,47963,Benzine,Automaat,117,5,60,40000,931
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,20000,959
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,30000,1019
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,36,40000,1076
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,20000,873
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,30000,930
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,48,40000,985
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,20000,820
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,30000,874
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort e-DCS6,2024,48140,Benzine,Automaat,116,5,60,40000,933
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,20000,976
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,30000,1036
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,36,40000,1095
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,20000,888
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,30000,945
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,48,40000,1001
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,20000,833
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,30000,888
+DS,DS 4,1.2 HYBRID ÔøΩTOILE Comfort Tech e-DCS6,2024,49313,Benzine,Automaat,117,5,60,40000,947
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,20000,994
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,30000,1055
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,36,40000,1115
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,20000,904
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,30000,962
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,48,40000,1018
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,20000,848
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,30000,903
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech e-DCS6,2024,50590,Benzine,Automaat,117,5,60,40000,963
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,20000,1017
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,30000,1079
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,36,40000,1139
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,20000,924
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,30000,982
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,48,40000,1039
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,20000,866
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,30000,921
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Comfort e-DCS6,2024,52113,Benzine,Automaat,118,5,60,40000,982
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,20000,1030
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,30000,1092
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,36,40000,1153
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,20000,935
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,30000,994
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,48,40000,1051
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,20000,876
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,30000,932
+DS,DS 4,1.2 HYBRID ÔøΩTOILE NAPPA Tech Comfort e-DCS6,2024,53013,Benzine,Automaat,118,5,60,40000,992
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,36,20000,1082
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,36,30000,1145
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,36,40000,1206
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,48,20000,968
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,48,30000,1029
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,48,40000,1088
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,60,20000,900
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,60,30000,958
+DS,DS 4,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY Aut,2024,53540,Hybride,Automaat,33,5,60,40000,1023
 DS,DS 4,1.6 PHEV PALLAS Comfort Tech Auto,2024,47010,Hybride,Automaat,33,5,36,20000,982
 DS,DS 4,1.6 PHEV PALLAS Comfort Tech Auto,2024,47010,Hybride,Automaat,33,5,36,30000,1042
 DS,DS 4,1.6 PHEV PALLAS Comfort Tech Auto,2024,47010,Hybride,Automaat,33,5,36,40000,1100
@@ -3931,87 +3931,87 @@ DS,DS 4,1.6 PHEV PALLAS Auto,2024,45440,Hybride,Automaat,33,5,48,40000,974
 DS,DS 4,1.6 PHEV PALLAS Auto,2024,45440,Hybride,Automaat,33,5,60,20000,805
 DS,DS 4,1.6 PHEV PALLAS Auto,2024,45440,Hybride,Automaat,33,5,60,30000,860
 DS,DS 4,1.6 PHEV PALLAS Auto,2024,45440,Hybride,Automaat,33,5,60,40000,921
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,20000,1135
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,30000,1200
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,40000,1263
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,20000,1014
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,30000,1075
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,40000,1136
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,20000,940
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,30000,999
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,40000,1065
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,20000,1122
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,30000,1186
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,40000,1248
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,20000,1002
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,30000,1063
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,40000,1123
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,20000,930
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,30000,989
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,40000,1054
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,20000,1087
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,30000,1150
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,40000,1211
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,20000,972
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,30000,1033
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,40000,1092
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,20000,904
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,30000,962
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,40000,1026
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,20000,1073
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,30000,1136
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,40000,1196
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,20000,960
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,30000,1021
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,40000,1079
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,20000,893
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,30000,951
-DS,DS 4,1.6 PHEV ÉTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,40000,1015
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,20000,1068
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,30000,1130
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,40000,1191
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,20000,956
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,30000,1016
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,40000,1075
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,20000,889
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,30000,947
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,40000,1011
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,20000,1052
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,30000,1114
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,40000,1175
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,20000,943
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,30000,1003
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,40000,1061
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,20000,877
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,30000,935
-DS,DS 4,1.6 PHEV ÉTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,40000,998
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,20000,1047
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,30000,1109
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,40000,1169
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,20000,938
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,30000,998
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,40000,1056
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,20000,873
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,30000,930
-DS,DS 4,1.6 PHEV ÉTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,40000,994
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,20000,1032
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,30000,1093
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,40000,1153
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,20000,925
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,30000,984
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,40000,1042
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,20000,862
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,30000,918
-DS,DS 4,1.6 PHEV ÉTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,40000,982
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,36,20000,968
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,36,30000,1028
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,36,40000,1086
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,48,20000,881
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,48,30000,938
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,48,40000,993
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,60,20000,827
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,60,30000,881
-DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÉRY AUTO,2024,48740,Benzine,Automaat,117,5,60,40000,940
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,20000,1135
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,30000,1200
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,36,40000,1263
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,20000,1014
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,30000,1075
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,48,40000,1136
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,20000,940
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,30000,999
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Comf Auto,2024,56692,Hybride,Automaat,34,5,60,40000,1065
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,20000,1122
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,30000,1186
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,36,40000,1248
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,20000,1002
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,30000,1063
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,48,40000,1123
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,20000,930
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,30000,989
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Comfort Auto,2024,55792,Hybride,Automaat,34,5,60,40000,1054
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,20000,1087
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,30000,1150
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,36,40000,1211
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,20000,972
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,30000,1033
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,48,40000,1092
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,20000,904
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,30000,962
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Tech Auto,2024,53840,Hybride,Automaat,33,5,60,40000,1026
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,20000,1073
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,30000,1136
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,36,40000,1196
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,20000,960
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,30000,1021
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,48,40000,1079
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,20000,893
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,30000,951
+DS,DS 4,1.6 PHEV ÔøΩTOILE NAPPA Auto,2024,52940,Hybride,Automaat,33,5,60,40000,1015
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,20000,1068
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,30000,1130
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,36,40000,1191
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,20000,956
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,30000,1016
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,48,40000,1075
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,20000,889
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,30000,947
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Tech Auto,2024,52592,Hybride,Automaat,33,5,60,40000,1011
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,20000,1052
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,30000,1114
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,36,40000,1175
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,20000,943
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,30000,1003
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,48,40000,1061
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,20000,877
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,30000,935
+DS,DS 4,1.6 PHEV ÔøΩTOILE Comfort Auto,2024,51592,Hybride,Automaat,33,5,60,40000,998
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,20000,1047
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,30000,1109
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,36,40000,1169
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,20000,938
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,30000,998
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,48,40000,1056
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,20000,873
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,30000,930
+DS,DS 4,1.6 PHEV ÔøΩTOILE Tech Auto,2024,51240,Hybride,Automaat,33,5,60,40000,994
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,20000,1032
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,30000,1093
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,36,40000,1153
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,20000,925
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,30000,984
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,48,40000,1042
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,20000,862
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,30000,918
+DS,DS 4,1.6 PHEV ÔøΩTOILE Auto,2024,50240,Hybride,Automaat,33,5,60,40000,982
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,36,20000,968
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,36,30000,1028
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,36,40000,1086
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,48,20000,881
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,48,30000,938
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,48,40000,993
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,60,20000,827
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,60,30000,881
+DS,DS 4,HYBRID ANTOINE DE SAINT EXUPÔøΩRY AUTO,2024,48740,Benzine,Automaat,117,5,60,40000,940
 DS,DS 4,1.6 PHEV LIGNE BUSINESS Auto,2024,42690,Hybride,Automaat,33,5,36,20000,909
 DS,DS 4,1.6 PHEV LIGNE BUSINESS Auto,2024,42690,Hybride,Automaat,33,5,36,30000,967
 DS,DS 4,1.6 PHEV LIGNE BUSINESS Auto,2024,42690,Hybride,Automaat,33,5,36,40000,1022
@@ -4075,51 +4075,51 @@ DS,DS 7,E-TENSE 360 4X4 PERFORMANCE,2024,74150,Hybride,Automaat,44,5,48,40000,14
 DS,DS 7,E-TENSE 360 4X4 PERFORMANCE,2024,74150,Hybride,Automaat,44,5,60,20000,1208
 DS,DS 7,E-TENSE 360 4X4 PERFORMANCE,2024,74150,Hybride,Automaat,44,5,60,30000,1290
 DS,DS 7,E-TENSE 360 4X4 PERFORMANCE,2024,74150,Hybride,Automaat,44,5,60,40000,1378
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,36,20000,1270
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,36,30000,1337
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,36,40000,1402
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,48,20000,1122
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,48,30000,1186
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,48,40000,1247
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,60,20000,1031
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,60,30000,1092
-DS,DS 7,E-TENSE 225 ÉTOILE,2024,63250,Hybride,Automaat,33,5,60,40000,1156
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,36,20000,1376
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,36,30000,1450
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,36,40000,1521
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,48,20000,1215
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,48,30000,1284
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,48,40000,1352
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,60,20000,1115
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,60,30000,1181
-DS,DS 7,E-TENSE 300 4x4 ÉTOILE,2024,68600,Hybride,Automaat,31,5,60,40000,1252
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,36,20000,1245
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,36,30000,1312
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,36,40000,1376
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,48,20000,1102
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,48,30000,1164
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,48,40000,1226
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,60,20000,1013
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,60,30000,1073
-DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÉRY,2024,61450,Hybride,Automaat,32,5,60,40000,1136
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,36,20000,1352
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,36,30000,1425
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,36,40000,1495
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,48,20000,1194
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,48,30000,1263
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,48,40000,1330
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,60,20000,1097
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,60,30000,1163
-DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÉRY,2024,66850,Hybride,Automaat,31,5,60,40000,1233
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,36,20000,1451
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,36,30000,1539
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,36,40000,1626
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,48,20000,1285
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,48,30000,1370
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,48,40000,1453
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,60,20000,1183
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,60,30000,1265
-DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÉRY,2024,71800,Hybride,Automaat,44,5,60,40000,1352
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,36,20000,1270
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,36,30000,1337
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,36,40000,1402
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,48,20000,1122
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,48,30000,1186
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,48,40000,1247
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,60,20000,1031
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,60,30000,1092
+DS,DS 7,E-TENSE 225 ÔøΩTOILE,2024,63250,Hybride,Automaat,33,5,60,40000,1156
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,36,20000,1376
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,36,30000,1450
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,36,40000,1521
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,48,20000,1215
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,48,30000,1284
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,48,40000,1352
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,60,20000,1115
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,60,30000,1181
+DS,DS 7,E-TENSE 300 4x4 ÔøΩTOILE,2024,68600,Hybride,Automaat,31,5,60,40000,1252
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,36,20000,1245
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,36,30000,1312
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,36,40000,1376
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,48,20000,1102
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,48,30000,1164
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,48,40000,1226
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,60,20000,1013
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,60,30000,1073
+DS,DS 7,E-TENSE 225 ANTOINE DE SAINT EXUPÔøΩRY,2024,61450,Hybride,Automaat,32,5,60,40000,1136
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,36,20000,1352
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,36,30000,1425
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,36,40000,1495
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,48,20000,1194
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,48,30000,1263
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,48,40000,1330
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,60,20000,1097
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,60,30000,1163
+DS,DS 7,E-TENSE 300 4X4 A DE SAINT EXUPÔøΩRY,2024,66850,Hybride,Automaat,31,5,60,40000,1233
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,36,20000,1451
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,36,30000,1539
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,36,40000,1626
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,48,20000,1285
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,48,30000,1370
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,48,40000,1453
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,60,20000,1183
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,60,30000,1265
+DS,DS 7,E-TENSE 360 4X4 A DE SAINT EXUPÔøΩRY,2024,71800,Hybride,Automaat,44,5,60,40000,1352
 DS,DS 7,E-TENSE 300 4X4 LIGNE BUSINESS,2024,58150,Hybride,Automaat,31,5,36,20000,1175
 DS,DS 7,E-TENSE 300 4X4 LIGNE BUSINESS,2024,58150,Hybride,Automaat,31,5,36,30000,1245
 DS,DS 7,E-TENSE 300 4X4 LIGNE BUSINESS,2024,58150,Hybride,Automaat,31,5,36,40000,1314
@@ -9783,69 +9783,69 @@ Mercedes-Benz,CLA Shooting Brake,CLA 250 e DCT Business Solution,2026,47046,Hybr
 Mercedes-Benz,CLA Shooting Brake,CLA 250 e DCT Business Solution,2026,47046,Hybride,Automaat,18,5,60,20000,761
 Mercedes-Benz,CLA Shooting Brake,CLA 250 e DCT Business Solution,2026,47046,Hybride,Automaat,18,5,60,30000,813
 Mercedes-Benz,CLA Shooting Brake,CLA 250 e DCT Business Solution,2026,47046,Hybride,Automaat,18,5,60,40000,872
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,20000,1074
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,30000,1179
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,40000,1281
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,20000,1043
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,30000,1142
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,40000,1237
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,20000,1020
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,30000,1112
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,40000,1211
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,20000,1255
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,30000,1374
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,40000,1488
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,20000,1211
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,30000,1322
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,40000,1429
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,20000,1178
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,30000,1282
-Mercedes-Benz,CLE Coupé,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,40000,1392
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,20000,1125
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,30000,1234
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,40000,1339
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,20000,1092
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,30000,1193
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,40000,1290
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,20000,1065
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,30000,1160
-Mercedes-Benz,CLE Coupé,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,40000,1261
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,20000,1479
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,30000,1613
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,40000,1743
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,20000,1421
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,30000,1545
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,40000,1664
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,20000,1376
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,30000,1490
-Mercedes-Benz,CLE Coupé,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,40000,1610
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,20000,1139
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,30000,1230
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,40000,1317
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,20000,1066
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,30000,1150
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,40000,1233
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,20000,1017
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,30000,1097
-Mercedes-Benz,CLE Coupé,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,40000,1182
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,20000,1051
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,30000,1152
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,40000,1249
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,20000,1021
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,30000,1116
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,40000,1206
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,20000,998
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,30000,1087
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,40000,1181
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,20000,984
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,30000,1073
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,40000,1159
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,20000,956
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,30000,1039
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,40000,1119
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,20000,935
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,30000,1013
-Mercedes-Benz,CLE Coupé,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,40000,1097
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,20000,1074
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,30000,1179
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,36,40000,1281
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,20000,1043
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,30000,1142
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,48,40000,1237
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,20000,1020
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,30000,1112
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line,2026,73344,Benzine,Automaat,147,4,60,40000,1211
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,20000,1255
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,30000,1374
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,36,40000,1488
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,20000,1211
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,30000,1322
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,48,40000,1429
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,20000,1178
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,30000,1282
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 MHEV AMG Line 4MATIC,2026,82150,Benzine,Automaat,161,4,60,40000,1392
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,20000,1125
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,30000,1234
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,36,40000,1339
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,20000,1092
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,30000,1193
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,48,40000,1290
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,20000,1065
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,30000,1160
+Mercedes-Benz,CLE CoupÔøΩ,CLE 200 MHEV AMG Line 4MATIC,2026,77184,Benzine,Automaat,152,4,60,40000,1261
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,20000,1479
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,30000,1613
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,36,40000,1743
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,20000,1421
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,30000,1545
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,48,40000,1664
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,20000,1376
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,30000,1490
+Mercedes-Benz,CLE CoupÔøΩ,CLE 450 MHEV AMG Line 4MATIC,2026,103180,Benzine,Automaat,174,4,60,40000,1610
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,20000,1139
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,30000,1230
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,36,40000,1317
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,20000,1066
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,30000,1150
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,48,40000,1233
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,20000,1017
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,30000,1097
+Mercedes-Benz,CLE CoupÔøΩ,CLE 300 PHEV AMG Line,2026,70268,Hybride,Automaat,13,4,60,40000,1182
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,20000,1051
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,30000,1152
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,36,40000,1249
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,20000,1021
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,30000,1116
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,48,40000,1206
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,20000,998
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,30000,1087
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV AMG Line,2026,70319,Benzine,Automaat,146,4,60,40000,1181
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,20000,984
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,30000,1073
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,36,40000,1159
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,20000,956
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,30000,1039
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,48,40000,1119
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,20000,935
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,30000,1013
+Mercedes-Benz,CLE CoupÔøΩ,CLE 180 MHEV Luxury Line,2026,64911,Benzine,Automaat,144,4,60,40000,1097
 Mercedes-Benz,E-Klasse Estate,E 300 e Luxury Line,2026,74142,Hybride,Automaat,14,5,36,20000,1251
 Mercedes-Benz,E-Klasse Estate,E 300 e Luxury Line,2026,74142,Hybride,Automaat,14,5,36,30000,1339
 Mercedes-Benz,E-Klasse Estate,E 300 e Luxury Line,2026,74142,Hybride,Automaat,14,5,36,40000,1425
@@ -10732,78 +10732,78 @@ Mercedes-Benz,GLC,GLC 300 e 4MATIC Sport Edition auto,2026,75955,Hybride,Automaa
 Mercedes-Benz,GLC,GLC 300 e 4MATIC Sport Edition auto,2026,75955,Hybride,Automaat,13,5,60,20000,1104
 Mercedes-Benz,GLC,GLC 300 e 4MATIC Sport Edition auto,2026,75955,Hybride,Automaat,13,5,60,30000,1186
 Mercedes-Benz,GLC,GLC 300 e 4MATIC Sport Edition auto,2026,75955,Hybride,Automaat,13,5,60,40000,1272
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,20000,1293
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,30000,1382
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,40000,1469
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,20000,1197
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,30000,1281
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,40000,1362
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,20000,1135
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,30000,1214
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,40000,1300
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,20000,1334
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,30000,1428
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,40000,1519
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,20000,1234
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,30000,1323
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,40000,1408
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,20000,1170
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,30000,1254
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,40000,1344
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,20000,1377
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,30000,1474
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,40000,1567
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,20000,1273
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,30000,1364
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,40000,1451
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,20000,1206
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,30000,1291
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,40000,1383
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,20000,1476
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,30000,1571
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,40000,1663
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,20000,1365
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,30000,1454
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,40000,1541
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,20000,1294
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,30000,1379
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,40000,1470
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,20000,1520
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,30000,1617
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,40000,1711
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,20000,1404
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,30000,1495
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,40000,1584
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,20000,1331
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,30000,1416
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,40000,1509
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,20000,1437
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,30000,1527
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,40000,1614
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,20000,1329
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,30000,1413
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,40000,1495
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,20000,1260
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,30000,1340
-Mercedes-Benz,GLC Coupé,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,40000,1427
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,20000,1428
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,30000,1530
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,40000,1627
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,20000,1320
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,30000,1415
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,40000,1507
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,20000,1251
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,30000,1340
-Mercedes-Benz,GLC Coupé,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,40000,1437
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,20000,1318
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,30000,1414
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,40000,1507
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,20000,1221
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,30000,1311
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,40000,1399
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,20000,1159
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,30000,1244
-Mercedes-Benz,GLC Coupé,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,40000,1336
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,20000,1293
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,30000,1382
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,36,40000,1469
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,20000,1197
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,30000,1281
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,48,40000,1362
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,20000,1135
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,30000,1214
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Business Line,2026,79220,Hybride,Automaat,12,5,60,40000,1300
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,20000,1334
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,30000,1428
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,36,40000,1519
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,20000,1234
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,30000,1323
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,48,40000,1408
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,20000,1170
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,30000,1254
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Luxury Line,2026,82245,Hybride,Automaat,12,5,60,40000,1344
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,20000,1377
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,30000,1474
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,36,40000,1567
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,20000,1273
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,30000,1364
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,48,40000,1451
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,20000,1206
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,30000,1291
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC AMG Line,2026,85877,Hybride,Automaat,13,5,60,40000,1383
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,20000,1476
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,30000,1571
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,36,40000,1663
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,20000,1365
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,30000,1454
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,48,40000,1541
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,20000,1294
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,30000,1379
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Luxury Line,2026,84663,Hybride,Automaat,11,5,60,40000,1470
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,20000,1520
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,30000,1617
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,36,40000,1711
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,20000,1404
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,30000,1495
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,48,40000,1584
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,20000,1331
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,30000,1416
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC AMG Line,2026,88295,Hybride,Automaat,12,5,60,40000,1509
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,20000,1437
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,30000,1527
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,36,40000,1614
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,20000,1329
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,30000,1413
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,48,40000,1495
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,20000,1260
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,30000,1340
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 de 4MATIC Business Line,2026,81638,Hybride,Automaat,11,5,60,40000,1427
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,20000,1428
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,30000,1530
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,36,40000,1627
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,20000,1320
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,30000,1415
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,48,40000,1507
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,20000,1251
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,30000,1340
+Mercedes-Benz,GLC CoupÔøΩ,GLC 400 e 4MATIC AMG Line,2026,89870,Hybride,Automaat,13,5,60,40000,1437
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,20000,1318
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,30000,1414
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,36,40000,1507
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,20000,1221
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,30000,1311
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,48,40000,1399
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,20000,1159
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,30000,1244
+Mercedes-Benz,GLC CoupÔøΩ,GLC 300 e 4MATIC Sport Edition,2026,80795,Hybride,Automaat,13,5,60,40000,1336
 Mercedes-Benz,GLE,GLE 450 4MATIC AMG Line,2026,148621,Benzine,Automaat,218,5,36,20000,2158
 Mercedes-Benz,GLE,GLE 450 4MATIC AMG Line,2026,148621,Benzine,Automaat,218,5,36,30000,2325
 Mercedes-Benz,GLE,GLE 450 4MATIC AMG Line,2026,148621,Benzine,Automaat,218,5,36,40000,2485
@@ -10884,51 +10884,51 @@ Mercedes-Benz,GLE,GLE 53 Mercedes-AMG 4MATIC+,2026,126845,Hybride,Automaat,29,5,
 Mercedes-Benz,GLE,GLE 53 Mercedes-AMG 4MATIC+,2026,126845,Hybride,Automaat,29,5,60,20000,1826
 Mercedes-Benz,GLE,GLE 53 Mercedes-AMG 4MATIC+,2026,126845,Hybride,Automaat,29,5,60,30000,1939
 Mercedes-Benz,GLE,GLE 53 Mercedes-AMG 4MATIC+,2026,126845,Hybride,Automaat,29,5,60,40000,2055
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,20000,2638
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,30000,2808
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,40000,2971
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,20000,2440
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,30000,2593
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,40000,2740
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,20000,2301
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,30000,2441
-Mercedes-Benz,GLE Coupé,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,40000,2582
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,20000,1834
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,30000,1957
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,40000,2076
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,20000,1693
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,30000,1808
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,40000,1920
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,20000,1602
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,30000,1710
-Mercedes-Benz,GLE Coupé,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,40000,1825
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,20000,1702
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,30000,1828
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,40000,1951
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,20000,1574
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,30000,1692
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,40000,1806
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,20000,1490
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,30000,1602
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,40000,1720
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,20000,1668
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,30000,1793
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,40000,1913
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,20000,1543
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,30000,1660
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,40000,1773
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,20000,1462
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,30000,1572
-Mercedes-Benz,GLE Coupé,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,40000,1689
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,20000,2243
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,30000,2381
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,40000,2515
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,20000,2023
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,30000,2152
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,40000,2275
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,20000,1882
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,30000,2002
-Mercedes-Benz,GLE Coupé,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,40000,2127
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,20000,2638
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,30000,2808
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,36,40000,2971
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,20000,2440
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,30000,2593
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,48,40000,2740
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,20000,2301
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,30000,2441
+Mercedes-Benz,GLE CoupÔøΩ,GLE 450 d 4MATIC AMG Line,2026,159286,FALSE,Automaat,199,5,60,40000,2582
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,20000,1834
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,30000,1957
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,36,40000,2076
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,20000,1693
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,30000,1808
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,48,40000,1920
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,20000,1602
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,30000,1710
+Mercedes-Benz,GLE CoupÔøΩ,GLE 350 de 4MATIC AMG Line,2026,109679,Hybride,Automaat,15,5,60,40000,1825
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,20000,1702
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,30000,1828
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,36,40000,1951
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,20000,1574
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,30000,1692
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,48,40000,1806
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,20000,1490
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,30000,1602
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC AMG Line,2026,109336,Hybride,Automaat,18,5,60,40000,1720
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,20000,1668
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,30000,1793
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,36,40000,1913
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,20000,1543
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,30000,1660
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,48,40000,1773
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,20000,1462
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,30000,1572
+Mercedes-Benz,GLE CoupÔøΩ,GLE 400 e 4MATIC Sport Edition,2026,106432,Hybride,Automaat,18,5,60,40000,1689
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,20000,2243
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,30000,2381
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,36,40000,2515
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,20000,2023
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,30000,2152
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,48,40000,2275
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,20000,1882
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,30000,2002
+Mercedes-Benz,GLE CoupÔøΩ,Mercedes-AMG GLE 53 Hybrid 4M+ Night Edition,2026,130364,Hybride,Automaat,27,5,60,40000,2127
 MG,MG ZS EV,Comfort Standard range,2023,35223.75,Elektrisch,Automaat,0,5,36,20000,720
 MG,MG ZS EV,Comfort Standard range,2023,35223.75,Elektrisch,Automaat,0,5,36,30000,764
 MG,MG ZS EV,Comfort Standard range,2023,35223.75,Elektrisch,Automaat,0,5,36,40000,807
@@ -14097,60 +14097,60 @@ Skoda,Enyaq,85 Business Edition,2026,50350,Elektrisch,Automaat,0,5,48,40000,987
 Skoda,Enyaq,85 Business Edition,2026,50350,Elektrisch,Automaat,0,5,60,20000,813
 Skoda,Enyaq,85 Business Edition,2026,50350,Elektrisch,Automaat,0,5,60,30000,866
 Skoda,Enyaq,85 Business Edition,2026,50350,Elektrisch,Automaat,0,5,60,40000,919
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,20000,1067
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,30000,1132
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,40000,1195
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,20000,951
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,30000,1012
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,40000,1071
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,20000,877
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,30000,935
-Skoda,Enyaq Coupé,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,40000,994
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,20000,942
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,30000,998
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,40000,1053
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,20000,842
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,30000,895
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,40000,946
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,20000,779
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,30000,829
-Skoda,Enyaq Coupé,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,40000,880
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,20000,1034
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,30000,1093
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,40000,1151
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,20000,921
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,30000,976
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,40000,1030
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,20000,849
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,30000,901
-Skoda,Enyaq Coupé,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,40000,955
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,20000,964
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,30000,1019
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,40000,1072
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,20000,860
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,30000,911
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,40000,961
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,20000,793
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,30000,842
-Skoda,Enyaq Coupé,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,40000,891
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,20000,881
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,30000,933
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,40000,984
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,20000,789
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,30000,838
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,40000,885
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,20000,730
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,30000,777
-Skoda,Enyaq Coupé,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,40000,825
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,20000,996
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,30000,1055
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,40000,1112
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,20000,888
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,30000,944
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,40000,997
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,20000,820
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,30000,872
-Skoda,Enyaq Coupé,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,40000,926
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,20000,1067
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,30000,1132
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,36,40000,1195
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,20000,951
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,30000,1012
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,48,40000,1071
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,20000,877
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,30000,935
+Skoda,Enyaq CoupÔøΩ,85 Sportline,2026,54850,Elektrisch,Automaat,0,5,60,40000,994
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,20000,942
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,30000,998
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,36,40000,1053
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,20000,842
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,30000,895
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,48,40000,946
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,20000,779
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,30000,829
+Skoda,Enyaq CoupÔøΩ,85 Selection,2026,46850,Elektrisch,Automaat,0,5,60,40000,880
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,20000,1034
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,30000,1093
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,36,40000,1151
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,20000,921
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,30000,976
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,48,40000,1030
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,20000,849
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,30000,901
+Skoda,Enyaq CoupÔøΩ,85 Business Edition,2026,52850,Elektrisch,Automaat,0,5,60,40000,955
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,20000,964
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,30000,1019
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,36,40000,1072
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,20000,860
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,30000,911
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,48,40000,961
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,20000,793
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,30000,842
+Skoda,Enyaq CoupÔøΩ,60 Business Edition,2026,48850,Elektrisch,Automaat,0,5,60,40000,891
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,20000,881
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,30000,933
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,36,40000,984
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,20000,789
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,30000,838
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,48,40000,885
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,20000,730
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,30000,777
+Skoda,Enyaq CoupÔøΩ,60 Selection,2026,43850,Elektrisch,Automaat,0,5,60,40000,825
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,20000,996
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,30000,1055
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,36,40000,1112
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,20000,888
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,30000,944
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,48,40000,997
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,20000,820
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,30000,872
+Skoda,Enyaq CoupÔøΩ,60 Sportline,2026,50850,Elektrisch,Automaat,0,5,60,40000,926
 Skoda,Fabia,1.0 TSI Greentech 70kW Selection,2025,25535,Benzine,Handgeschakeld,113,5,36,20000,558
 Skoda,Fabia,1.0 TSI Greentech 70kW Selection,2025,25535,Benzine,Handgeschakeld,113,5,36,30000,594
 Skoda,Fabia,1.0 TSI Greentech 70kW Selection,2025,25535,Benzine,Handgeschakeld,113,5,36,40000,630
