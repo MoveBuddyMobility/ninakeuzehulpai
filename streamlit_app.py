@@ -383,7 +383,7 @@ def genereer_pdf_van_gesprek(messages):
         tekst = f"{rol}: {msg['content']}"
         for line in tekst.splitlines():
             safe_line = line.encode("latin-1", errors="replace").decode("latin-1")
-            pdf.multi_cell(w=0, h=10, txt=safe_line, max_line_height=pdf.font_size, new_x="LMARGIN", new_y="NEXT")
+            pdf.multi_cell(w=0, h=10, txt=safe_line)
         pdf.ln(5)
 
     temp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
