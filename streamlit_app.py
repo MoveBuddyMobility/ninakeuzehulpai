@@ -497,20 +497,25 @@ if prompt := st.chat_input("Typ je bericht..."):
         except Exception as e:
             reply = f"❌ Er ging iets mis: {e}"
 
+        # --- RENDERING VAN AI-ANTWOORD --------------------------------------------------
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.session_state.messages.append({"role": "assistant", "content": reply})
 
-    # --- Fallbacks bij renderproblemen ---
+    # --- Fallbacks en veilige rendering ---
     if not reply or reply.strip() == "":
-        reply = "⚠️ Er kwam geen leesbaar antwoord terug van Nina."
+        reply = "⚠️ Nina gaf geen leesbaar antwoord terug."
     elif reply.strip() in {"✅", "❌", "👍", "🔒"}:
         reply += " Laat me weten hoe ik je verder kan helpen."
 
+    # Opschonen van onrenderbare tekens
+    reply_clean = reply.replace("\x00", "").replace("\u200b", "").strip()
+
     try:
-        st.chat_message("assistant", avatar=assistant_icon).markdown(reply)
+        st.chat_message("assistant", avatar=assistant_icon).markdown(reply_clean)
     except Exception as render_error:
+        print(f"⚠️ Fallback naar .write() vanwege: {render_error}")
         st.warning("⚠️ Er ging iets mis met de opmaak. We tonen het antwoord als platte tekst.")
-        st.chat_message("assistant", avatar=assistant_icon).write(str(reply))
+        st.chat_message("assistant", avatar=assistant_icon).write(reply_clean)
 
 
 
