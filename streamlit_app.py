@@ -480,8 +480,7 @@ if prompt := st.chat_input("Typ je bericht..."):
             )
 
             msg = response.choices[0].message
-
-            reply = msg.content or "✅ Samenvatting verstuurd."  # Default tekst
+            reply = msg.content or "✅ Samenvatting verstuurd."
 
             if hasattr(msg, "tool_calls") and msg.tool_calls:
                 for tool_call in msg.tool_calls:
@@ -494,19 +493,20 @@ if prompt := st.chat_input("Typ je bericht..."):
                         args = json.loads(tool_call.function.arguments)
                         stuur_samenvatting_per_mail(**args)
                         reply = "✅ Samenvatting succesvol verstuurd naar MoveBuddy!"
+
         except Exception as e:
             reply = f"❌ Er ging iets mis: {e}"
 
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.session_state.messages.append({"role": "assistant", "content": reply})
-    # Veilig fallback-antwoord als er iets misgaat met renderen
+
+    # --- Fallbacks bij renderproblemen ---
     if not reply or reply.strip() == "":
         reply = "⚠️ Er kwam geen leesbaar antwoord terug van Nina."
-    
-    # Specifiek fix voor emoji-only of rare layout breaks
-    if reply.strip() in {"✅", "👍", "❌", "🔒"}:
+    elif reply.strip() in {"✅", "❌", "👍", "🔒"}:
         reply += " Laat me weten hoe ik je verder kan helpen."
-    st.chat_message("assistant", avatar=assistant_icon).write(reply)
+
+    st.chat_message("assistant", avatar=assistant_icon).markdown(reply)
 
 
 # --- FOOTNOTE / DISCLAIMER --------------------------------------------------
