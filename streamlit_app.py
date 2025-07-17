@@ -379,12 +379,19 @@ def genereer_pdf_van_gesprek(messages):
 
     # Inhoud per bericht
     for msg in messages:
-        rol = "Gebruiker" if msg["role"] == "user" else "Nina"
-        tekst = f"{rol}: {msg['content']}"
-        for line in tekst.splitlines():
-            safe_line = line.encode("latin-1", errors="replace").decode("latin-1")
+    rol = "Gebruiker" if msg["role"] == "user" else "Nina"
+    tekst = f"{rol}: {msg['content']}"
+    
+    # Strip potentieel problematische tekens
+    tekst = tekst.replace("\x00", "").replace("\u200b", "").replace("\u2028", " ").replace("\u2029", " ")
+    
+    for line in tekst.splitlines():
+        safe_line = line.encode("latin-1", errors="replace").decode("latin-1")
+        try:
             pdf.multi_cell(w=0, h=10, txt=safe_line)
-        pdf.ln(5)
+        except Exception as e:
+            pdf.multi_cell(w=0, h=10, txt="⚠️ Kon deze regel niet renderen.")
+    pdf.ln(5)
 
     temp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
     pdf.output(temp_pdf.name)
