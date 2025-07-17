@@ -368,6 +368,7 @@ Nieuwe leaseaanvraag via Nina – AI Keuzehulp
 def genereer_pdf_van_gesprek(messages):
     pdf = FPDF()
     pdf.add_page()
+    pdf.add_font("Arial", "", "./static/fonts/arial.ttf", uni=True)
     pdf.set_font("Arial", "", 12)
     pdf.set_auto_page_break(auto=True, margin=15)
 
