@@ -499,6 +499,13 @@ if prompt := st.chat_input("Typ je bericht..."):
 
     st.session_state.messages.append({"role": "user", "content": prompt})
     st.session_state.messages.append({"role": "assistant", "content": reply})
+    # Veilig fallback-antwoord als er iets misgaat met renderen
+    if not reply or reply.strip() == "":
+        reply = "⚠️ Er kwam geen leesbaar antwoord terug van Nina."
+    
+    # Specifiek fix voor emoji-only of rare layout breaks
+    if reply.strip() in {"✅", "👍", "❌", "🔒"}:
+        reply += " Laat me weten hoe ik je verder kan helpen."
     st.chat_message("assistant", avatar=assistant_icon).write(reply)
 
 
