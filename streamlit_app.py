@@ -437,45 +437,45 @@ if prompt := st.chat_input("Typ je bericht..."):
                 messages=input_messages,
                 tool_choice="auto",
                 tools=[
-    {
-        "type": "function",
-        "function": {
-            "name": "zoek_top3_leaseautos",
-            "description": "Zoekt 3 geschikte leaseauto’s op basis van voorkeuren",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "looptijd": {"type": "integer"},
-                    "jaarkilometrage": {"type": "integer"},
-                    "max_budget": {"type": "number"},
-                    "energiebron": {"type": "string"},
-                    "carrosserievorm_voorkeur": {"type": "string"},
-                    "actieradius_minimaal": {"type": "integer"},
-                    "merkvoorkeuren": {"type": "array", "items": {"type": "string"}},
-                    "automaat_vereist": {"type": "boolean"},
-                    "trekgewicht_nodig": {"type": "boolean"},
-                    "specifieke_wensen": {"type": "array", "items": {"type": "string"}}
-                },
-                "required": ["looptijd", "jaarkilometrage", "max_budget", "energiebron"]
-            }
-        }
-    },
-    {
-        "type": "function",
-        "function": {
-            "name": "stuur_samenvatting_per_mail",
-            "description": "Verstuurt een samenvatting van het gesprek per mail naar sales@movebuddy.eu",
-            "parameters": {
-                "type": "object",
-                "properties": {
-                    "gespreksinhoud": {"type": "string"},
-                    "emailadres": {"type": "string"}
-                },
-                "required": ["gespreksinhoud", "emailadres"]
-            }
-        }
-    }
-]
+                    {
+                        "type": "function",
+                        "function": {
+                            "name": "zoek_top3_leaseautos",
+                            "description": "Zoekt 3 geschikte leaseauto’s op basis van voorkeuren",
+                            "parameters": {
+                                "type": "object",
+                                "properties": {
+                                    "looptijd": {"type": "integer"},
+                                    "jaarkilometrage": {"type": "integer"},
+                                    "max_budget": {"type": "number"},
+                                    "energiebron": {"type": "string"},
+                                    "carrosserievorm_voorkeur": {"type": "string"},
+                                    "actieradius_minimaal": {"type": "integer"},
+                                    "merkvoorkeuren": {"type": "array", "items": {"type": "string"}},
+                                    "automaat_vereist": {"type": "boolean"},
+                                    "trekgewicht_nodig": {"type": "boolean"},
+                                    "specifieke_wensen": {"type": "array", "items": {"type": "string"}}
+                                },
+                                "required": ["looptijd", "jaarkilometrage", "max_budget", "energiebron"]
+                            }
+                        }
+                    },
+                    {
+                        "type": "function",
+                        "function": {
+                            "name": "stuur_samenvatting_per_mail",
+                            "description": "Verstuurt een samenvatting van het gesprek per mail naar sales@movebuddy.eu",
+                            "parameters": {
+                                "type": "object",
+                                "properties": {
+                                    "gespreksinhoud": {"type": "string"},
+                                    "emailadres": {"type": "string"}
+                                },
+                                "required": ["gespreksinhoud", "emailadres"]
+                            }
+                        }
+                    }
+                ],
                 max_tokens=5000,
                 stream=False,
             )
