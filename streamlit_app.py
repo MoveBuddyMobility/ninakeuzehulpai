@@ -275,6 +275,21 @@ def genereer_samenvatting(messages):
         samenvatting += f"{rol}: {msg['content']}\n\n"
     return samenvatting
 
+def strip_problematische_symbolen(text):
+    vervangingen = {
+        "❌": "[X]",
+        "✅": "[OK]",
+        "⚠️": "[!]",
+        "🚗": "(auto)",
+        "🔒": "[lock]",
+        "📩": "[mail]",
+        "📎": "[clip]",
+        "📝": "[note]"
+    }
+    for symbool, vervanging in vervangingen.items():
+        text = text.replace(symbool, vervanging)
+    return text
+
 def genereer_gestructureerde_samenvatting(messages):
     voorkeuren = []
     auto_advies = []
@@ -382,16 +397,16 @@ def genereer_pdf_van_gesprek(messages):
     for msg in messages:
         rol = "Gebruiker" if msg["role"] == "user" else "Nina"
         tekst = f"{rol}: {msg['content']}"
-        
-        # Strip potentieel problematische tekens
+        tekst = strip_problematische_symbolen(tekst)
+    
+        # Extra stripping van rare tekens
         tekst = tekst.replace("\x00", "").replace("\u200b", "").replace("\u2028", " ").replace("\u2029", " ")
-        
+    
         for line in tekst.splitlines():
-            safe_line = line.encode("latin-1", errors="replace").decode("latin-1")
             try:
-                pdf.multi_cell(w=0, h=10, txt=safe_line)
-            except Exception as e:
-                pdf.multi_cell(w=0, h=10, txt=" Kon deze regel niet renderen.")
+                pdf.multi_cell(w=190, h=10, txt=line)
+            except Exception:
+                pdf.multi_cell(w=0, h=10, txt="[!] Regel kon niet worden weergegeven.")
         pdf.ln(5)
     
     temp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
