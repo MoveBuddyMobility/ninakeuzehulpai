@@ -414,6 +414,7 @@ for msg in st.session_state.messages:
     st.chat_message(msg["role"], avatar=avatar).write(msg["content"])
 
 # --- CHAT INPUT ------------------------------------------------------------
+# --- CHAT INPUT ------------------------------------------------------------
 if prompt := st.chat_input("Typ je bericht..."):
     st.chat_message("user", avatar=user_icon).write(prompt)
 
@@ -435,46 +436,7 @@ if prompt := st.chat_input("Typ je bericht..."):
                 model=model_id,
                 messages=input_messages,
                 tool_choice="auto",
-                tools=[
-                    {
-                        "type": "function",
-                        "function": {
-                            "name": "zoek_top3_leaseautos",
-                            "description": "Zoekt 3 geschikte leaseauto’s op basis van voorkeuren",
-                            "parameters": {
-                                "type": "object",
-                                "properties": {
-                                    "looptijd": {"type": "integer"},
-                                    "jaarkilometrage": {"type": "integer"},
-                                    "max_budget": {"type": "number"},
-                                    "energiebron": {"type": "string"},
-                                    "carrosserievorm_voorkeur": {"type": "string"},
-                                    "actieradius_minimaal": {"type": "integer"},
-                                    "merkvoorkeuren": {"type": "array", "items": {"type": "string"}},
-                                    "automaat_vereist": {"type": "boolean"},
-                                    "trekgewicht_nodig": {"type": "boolean"},
-                                    "specifieke_wensen": {"type": "array", "items": {"type": "string"}}
-                                },
-                                "required": ["looptijd", "jaarkilometrage", "max_budget", "energiebron"]
-                            }
-                        }
-                    },
-                    {
-                        "type": "function",
-                        "function": {
-                            "name": "stuur_samenvatting_per_mail",
-                            "description": "Verstuurt een samenvatting van het gesprek per mail naar sales@movebuddy.eu",
-                            "parameters": {
-                                "type": "object",
-                                "properties": {
-                                    "gespreksinhoud": {"type": "string"},
-                                    "emailadres": {"type": "string"}
-                                },
-                                "required": ["gespreksinhoud", "emailadres"]
-                            }
-                        }
-                    }
-                ],
+                tools=[...],  # ongewijzigd
                 max_tokens=5000,
                 stream=False,
             )
@@ -488,7 +450,6 @@ if prompt := st.chat_input("Typ je bericht..."):
                         args = json.loads(tool_call.function.arguments)
                         reply = zoek_top3_leaseautos(args)
                         st.session_state["show_summary_button"] = True
-
                     elif tool_call.function.name == "stuur_samenvatting_per_mail":
                         args = json.loads(tool_call.function.arguments)
                         stuur_samenvatting_per_mail(**args)
@@ -506,7 +467,12 @@ if prompt := st.chat_input("Typ je bericht..."):
     elif reply.strip() in {"✅", "❌", "👍", "🔒"}:
         reply += " Laat me weten hoe ik je verder kan helpen."
 
-    st.chat_message("assistant", avatar=assistant_icon).markdown(reply)
+    try:
+        st.chat_message("assistant", avatar=assistant_icon).markdown(reply)
+    except Exception as render_error:
+        st.warning("⚠️ Er ging iets mis met de opmaak. We tonen het antwoord als platte tekst.")
+        st.chat_message("assistant", avatar=assistant_icon).write(str(reply))
+
 
 
 # --- FOOTNOTE / DISCLAIMER --------------------------------------------------
