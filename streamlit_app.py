@@ -380,41 +380,36 @@ Nieuwe leaseaanvraag via Nina – AI Keuzehulp
         print(f"❌ SMTP-fout: {e}")
         raise
 
+import os
+import tempfile
+from fpdf import FPDF
+
 def genereer_pdf_van_gesprek(messages):
     pdf = FPDF()
     pdf.add_page()
-    pdf.add_font("Arial", "", "./static/arial.ttf", uni=True)
+    pdf.add_font("Arial", "", "./fonts/arial.ttf", uni=True)
     pdf.set_font("Arial", "", 12)
     pdf.set_auto_page_break(auto=True, margin=15)
-
-    # Titel
-    title = "Gesprek met Nina - AI Keuzehulp van MoveBuddy"
-    title_encoded = title.encode("latin-1", errors="replace").decode("latin-1")
-    pdf.cell(200, 10, txt=title_encoded, ln=True, align='L')
-    pdf.ln(10)
 
     # Inhoud per bericht
     for msg in messages:
         rol = "Gebruiker" if msg["role"] == "user" else "Nina"
         tekst = f"{rol}: {msg['content']}"
         tekst = strip_problematische_symbolen(tekst)
-    
-        # Extra stripping van rare tekens
         tekst = tekst.replace("\x00", "").replace("\u200b", "").replace("\u2028", " ").replace("\u2029", " ")
-    
+
         for line in tekst.splitlines():
             try:
                 pdf.multi_cell(w=190, h=10, txt=line)
             except Exception:
-                pdf.multi_cell(w=0, h=10, txt="[!] Regel kon niet worden weergegeven.")
-        pdf.ln(5)
-    
-    temp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
-    try:
-        pdf.output(temp_pdf.name)
-    except Exception as e:
-        print(f"❌ PDF-generatiefout: {e}")
+                pdf.multi_cell(w=190, h=10, txt="[!] Regel kon niet worden weergegeven.")
 
+    # Tijdelijk bestand aanmaken en pad teruggeven
+    with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
+        pdf_path = tmp.name
+        pdf.output(pdf_path)
+
+    return pdf_path
     
 # --- SESSION STATE ---------------------------------------------------------
 if "messages" not in st.session_state:
