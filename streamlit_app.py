@@ -298,10 +298,10 @@ def genereer_gestructureerde_samenvatting(messages):
         auto_advies.append("⚠️ Geen auto-advies aangetroffen.")
 
     return (
-        "📝 Samenvatting van het gesprek met Nina\n\n"
-        "📌 **Gebruikersvoorkeuren:**\n"
+        " Samenvatting van het gesprek met Nina\n\n"
+        " **Gebruikersvoorkeuren:**\n"
         f"{voorkeuren[-1]}\n\n"
-        "🚗 **Top 3 auto’s:**\n"
+        " **Top 3 auto’s:**\n"
         f"{auto_advies[-1]}"
     )
 
@@ -391,7 +391,7 @@ def genereer_pdf_van_gesprek(messages):
             try:
                 pdf.multi_cell(w=0, h=10, txt=safe_line)
             except Exception as e:
-                pdf.multi_cell(w=0, h=10, txt="⚠️ Kon deze regel niet renderen.")
+                pdf.multi_cell(w=0, h=10, txt=" Kon deze regel niet renderen.")
         pdf.ln(5)
     
     temp_pdf = tempfile.NamedTemporaryFile(delete=False, suffix=".pdf")
