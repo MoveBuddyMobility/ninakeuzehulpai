@@ -1,0 +1,20 @@
+name: Empty Commit Every 10 Hours
+
+on:
+  schedule:
+    - cron: '0 */10 * * *'  # Elke 10 uur
+  workflow_dispatch:        # Handmatig starten mogelijk
+
+jobs:
+  empty-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Make empty commit
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --allow-empty -m "chore: empty commit to trigger workflow [$(date)]"
+          git push
