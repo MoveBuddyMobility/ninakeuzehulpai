@@ -16,15 +16,21 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+          fetch-depth: 0  
 
       - name: Configure Git
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      - name: Maak lege commit
+      - name: Update en pull main branch
         run: |
-          git commit --allow-empty -m "🕒 Keep-alive commit"
+          git fetch origin
+          git checkout main
+          git pull --rebase origin main
+
+      - name: Maak lege commit
+        run: git commit --allow-empty -m "🕒 Keep-alive commit"
 
       - name: Push commit
         run: git push origin main
