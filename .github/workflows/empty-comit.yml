@@ -2,7 +2,7 @@ name: Keep Repo Alive
 
 on:
   schedule:
-    - cron: "0 */10 * * *"  # Elke 10 uur
+    - cron: "0 */2 * * *"  # Elke 2 uur
   workflow_dispatch:
 
 jobs:
