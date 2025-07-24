@@ -400,9 +400,9 @@ def genereer_pdf_van_gesprek(messages):
 
         for line in tekst.splitlines():
             try:
-                pdf.multi_cell(w=0, h=10, txt=line)
+                pdf.multi_cell(w=190, h=10, txt=line)
             except Exception:
-                pdf.multi_cell(w=0, h=10, txt="[!] Regel kon niet worden weergegeven.")
+                pdf.multi_cell(w=190, h=10, txt="[!] Regel kon niet worden weergegeven.")
 
     # Tijdelijk bestand aanmaken en pad teruggeven
     with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
