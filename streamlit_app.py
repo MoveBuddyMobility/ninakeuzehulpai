@@ -559,7 +559,7 @@ st.markdown(
     </style>
     <div class="footer">
         Deze tool is een <strong>beta-versie</strong> van Nina – de AI-Keuzehulp van <a href=https://www.movebuddy.eu>MoveBuddy</a>. <br/>
-        We werken hard aan verbeteringen op basis van <a href=mailto:support@movebuddy.eu>feedback</a>.
+        We werken hard aan verbeteringen op basis van <a href=https://form.jotform.com/252041570468354>feedback</a>.
     </div>
     """,
     unsafe_allow_html=True
