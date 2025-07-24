@@ -314,9 +314,9 @@ def genereer_gestructureerde_samenvatting(messages):
 
     return (
         " Samenvatting van het gesprek met Nina\n\n"
-        " **Gebruikersvoorkeuren:**\n"
+        " Gebruikersvoorkeuren:\n"
         f"{voorkeuren[-1]}\n\n"
-        " **Top 3 auto’s:**\n"
+        " Top 3 auto’s:\n"
         f"{auto_advies[-1]}"
     )
 
@@ -400,9 +400,9 @@ def genereer_pdf_van_gesprek(messages):
 
         for line in tekst.splitlines():
             try:
-                pdf.multi_cell(w=190, h=10, txt=line)
+                pdf.multi_cell(w=0, h=10, txt=line)
             except Exception:
-                pdf.multi_cell(w=190, h=10, txt="[!] Regel kon niet worden weergegeven.")
+                pdf.multi_cell(w=0, h=10, txt="[!] Regel kon niet worden weergegeven.")
 
     # Tijdelijk bestand aanmaken en pad teruggeven
     with tempfile.NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
