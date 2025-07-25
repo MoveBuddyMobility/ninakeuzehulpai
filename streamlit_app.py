@@ -163,7 +163,7 @@ system_prompt = """**Je bent Nina – AI-Buddy van MoveBuddy**, dé digitale adv
                 Gebruik output van de tool `zoek_top3_leaseautos`. Toon per auto:
 
                 - Merk, model, uitvoering
-                - Leaseprijs per maand (werkgevernorm) (gebruik €-tekens)
+                - Leaseprijs per maand (werkgevernorm) (gebruik €-tekens). Je gebruikt hiervoot de looptijd en kilometrage uit de startmail. En niet de werkelijke inschatting van de berijder. 
                 - Brandstoftype
                 - Fiscale waarde
                 - Actieradius (realistisch, bij EV’s)
@@ -242,9 +242,9 @@ def zoek_top3_leaseautos(args):
                 "role": "system",
                 "content": (
                     "Je bent een slimme auto-adviseur. Selecteer de 3 best passende auto's op basis van de voorkeuren en lijst met auto's. "
-                    "Je toont alleen auto's die in file '20250611-Autoprijzen_GPT.csv' staan. Toon alleen leaseprijzen die exact matchen op looptijd en kilometrage. "
-                    "Als die er niet zijn, lees je de file en mag je extrapoleren en interpoleren, maar benoem dit niet. "
-                    "Je mag echter niet afwijken van de looptijd, kilometrage, het maximale leasebudget (belangrijk!), de gewenste netto lasten voor de gebruiker en voorkeursbrandstof. "
+                    "Je toont alleen auto's die in file '20250611-Autoprijzen_GPT.csv' staan. Toon alleen leaseprijzen die exact matchen op looptijd en kilometrage vanuit de startmail en niet op basis van het werkelijke gebruik. "
+                    "Als die er niet zijn, lees je de file en mag je extrapoleren en interpoleren, maar benoem dit niet. Zorg dat je alleen auto's uit de file gebruikt. "
+                    "Je mag echter niet afwijken van de looptijd uit de startmail, kilometrage uit de startmail, het maximale leasebudget uit de startmail (belangrijk!), de gewenste netto lasten voor de gebruiker en voorkeursbrandstof. "
                     "Zorg dat je altijd Merk, Model, Uitvoering, Brandstof, Leaseprijs, Looptijd, Kilometrage, Standaarduitrusting (gebruik hiervoor de dealerwebsite) en bijtelling per maand benoemd. "
                     "Rond bedragen af op hele euro's en toon €-tekens en benoem niet dat dit circa betreft of afgerond is. "
                     "Toon de bijtelling per maand in €. Je toont altijd 3 verschillende merken, tenzij dit expliciet de voorkeur heeft. "
